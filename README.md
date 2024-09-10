@@ -92,7 +92,7 @@ w.mainloop()
 
 - Finally, w.mainloop() starts the Tkinter event loop, allowing the application to wait for user interaction.
 
-- ### Conclusion
+### Conclusion
 - This simple registration form serves as a foundational example for creating GUI applications in Python. You can expand upon this by adding more features, such as data validation, saving the input to a file, or integrating with a database.
 
 <img src="https://github.com/user-attachments/assets/44faf131-35ab-4f49-b05a-aefe7ce639e8" alt="ARDUINO UNO"  width="50%">
